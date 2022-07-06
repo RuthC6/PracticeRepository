@@ -1,0 +1,2 @@
+# PracticeRepository
+Practicing GitHub
